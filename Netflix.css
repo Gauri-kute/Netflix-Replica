@@ -19,7 +19,7 @@
     display: grid;
     grid-area: top;
     grid-template-columns: 1fr 1fr;
-    background-image: url('../Images/NETFLIX.jpg');
+    background-image: url("https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg");
     height: 1000px;
     width: 1500px;
     margin: 0px;
